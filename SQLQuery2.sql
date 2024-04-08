@@ -1,0 +1,1 @@
+﻿insert into logintab (Username, Password) values ('Admin','password'),('Sumanth', 'Sumanth123');
